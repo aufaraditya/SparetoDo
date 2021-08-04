@@ -48,6 +48,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Spare to do is a To Do App with estimated time assigned for each activity. This allows the user to manage their activity effectively for any given time even in smallest ampunt of time. Hence no time goes to waste because any amount of spare time can be filled with any activity.
 
+The App Demo [Sparetodo](https://aufaraditya.github.io/Sparetodo/).
+
 
 
 
