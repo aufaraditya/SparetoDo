@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sparetodo/static/css/main.347fb24d.chunk.css",
+    "main.js": "/Sparetodo/static/js/main.7e6e4d53.chunk.js",
+    "main.js.map": "/Sparetodo/static/js/main.7e6e4d53.chunk.js.map",
+    "runtime-main.js": "/Sparetodo/static/js/runtime-main.3848f85d.js",
+    "runtime-main.js.map": "/Sparetodo/static/js/runtime-main.3848f85d.js.map",
+    "static/css/2.455652b6.chunk.css": "/Sparetodo/static/css/2.455652b6.chunk.css",
+    "static/js/2.9a098811.chunk.js": "/Sparetodo/static/js/2.9a098811.chunk.js",
+    "static/js/2.9a098811.chunk.js.map": "/Sparetodo/static/js/2.9a098811.chunk.js.map",
+    "static/js/3.e1c791a2.chunk.js": "/Sparetodo/static/js/3.e1c791a2.chunk.js",
+    "static/js/3.e1c791a2.chunk.js.map": "/Sparetodo/static/js/3.e1c791a2.chunk.js.map",
+    "index.html": "/Sparetodo/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/Sparetodo/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.347fb24d.chunk.css.map": "/Sparetodo/static/css/main.347fb24d.chunk.css.map",
+    "static/js/2.9a098811.chunk.js.LICENSE.txt": "/Sparetodo/static/js/2.9a098811.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3848f85d.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.9a098811.chunk.js",
+    "static/css/main.347fb24d.chunk.css",
+    "static/js/main.7e6e4d53.chunk.js"
+  ]
+}
