@@ -44,5 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+# About Spare To Do
+
+Spare to do is a To Do App with estimated time assigned for each activity. This allows the user to manage their activity effectively for any given time even in smallest ampunt of time. Hence no time goes to waste because any amount of spare time can be filled with any activity.
+
+
+
+
 
 
