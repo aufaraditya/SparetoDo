@@ -50,6 +50,9 @@ Spare to do is a To Do App with estimated time assigned for each activity. This 
 
 The App Demo [Sparetodo](https://aufaraditya.github.io/Sparetodo/).
 
+### What to Improve
+
+
 
 
 
