@@ -58,6 +58,8 @@ The App Demo [Sparetodo](https://aufaraditya.github.io/Sparetodo/).
 4. Improve using Context Provider/Reducer
 
 
+Please do reach me to add more.. :)
+
 
 
 
